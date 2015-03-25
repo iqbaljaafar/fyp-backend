@@ -47,6 +47,8 @@ if($count==1){
 //session_register($mypassword); 
 $_SESSION["username"] = $myusername;
 header("location:login_success.php");
+//ni cara redirect,kalau berjaya dia redirect ke login_success.php
+
 }
 else {
 echo "Wrong Username or Password";
