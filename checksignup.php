@@ -45,6 +45,9 @@ $sql = "INSERT INTO $tbl_name (username, password) VALUES ('$myusername', '$mypa
 //$_POST['myusername']; <-- yg ni parameter yg ko dpt dr form td, pakai method $_POST untuk ambil parameter tu
 //make sure nama parameter tu sama mcm dalam form.. name="myusername"
 
+//Ok. skrg ni aku nak tengok ko push dlm repo, cuba try buat, aku tgk.. mcm smlm kan..ok
+// pkai git shell kan?
+//boleh juga
 
 
 
